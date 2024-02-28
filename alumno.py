@@ -9,6 +9,6 @@ class alumno:
         self.nombre = ""
         if (self.nota >= 5):
             print("promociona")
-        else
+        else:
             print("va a ser que no")
 
